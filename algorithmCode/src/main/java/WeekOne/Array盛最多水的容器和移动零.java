@@ -2,7 +2,7 @@ package WeekOne;
 
 import java.util.ArrayList;
 
-public class Array盛最多水的容器 {
+public class Array盛最多水的容器和移动零 {
 
     // LeetCode  questionNumber 11
 
