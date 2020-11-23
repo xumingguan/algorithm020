@@ -2,12 +2,14 @@
 
 脑图:图片
 
-阅读完成  ArrayList  和 LinkedList  源码    了解 
+- 时间和空间分析   
+  - 时间比较复杂还是比较简单的
 
-数组 (内存管理) 和链表(单向,双向,循环链表)   Head  and Tail   
+- 阅读完成  ArrayList  和 LinkedList  源码    了解 
 
-- 时间复杂度分析    (prepend     append   lookup  insert  delete)  
-- ![image-20201122204443468](C:\Users\10638\AppData\Roaming\Typora\typora-user-images\image-20201122204443468.png)
+- 数组 (内存管理) 和链表(单向,双向,循环链表)   Head  and Tail   
+  - 时间复杂度分析    (prepend     append   lookup  insert  delete)  
+  - ![image-20201122204443468](C:\Users\10638\AppData\Roaming\Typora\typora-user-images\image-20201122204443468.png)
 
 跳表   
 
