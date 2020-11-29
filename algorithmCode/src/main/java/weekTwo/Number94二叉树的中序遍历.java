@@ -23,6 +23,11 @@ public class Number94二叉树的中序遍历 {
 
     }
 
+    /**
+     *
+     * @param root
+     * @return
+     */
     public List<Integer> inorderTraversal(TreeNode root) {
         // 返回数据
         ArrayList<Integer> list = new ArrayList<Integer>();
