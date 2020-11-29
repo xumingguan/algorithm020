@@ -1,4 +1,4 @@
-package WeekOne;
+package weekOne;
 
 public class Number70爬楼梯梯 {
     public static void main(String[] args) {

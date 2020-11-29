@@ -1,10 +1,5 @@
-package WeekOne;
+package weekOne;
 
-import org.apache.commons.lang3.StringUtils;
-
-import java.util.ArrayList;
-import java.util.Deque;
-import java.util.HashMap;
 import java.util.LinkedList;
 
 /**

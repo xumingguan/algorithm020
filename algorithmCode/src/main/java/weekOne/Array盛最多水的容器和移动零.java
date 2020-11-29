@@ -1,6 +1,4 @@
-package WeekOne;
-
-import java.util.ArrayList;
+package weekOne;
 
 public class Array盛最多水的容器和移动零 {
 
