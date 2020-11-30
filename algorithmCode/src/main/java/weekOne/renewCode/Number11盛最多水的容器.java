@@ -2,7 +2,7 @@ package weekOne.renewCode;
 
 /**
  * 再次做题   原速度已经很快了
- *
+ * 使用  双指针的做法
  * @author Ye-Ma
  */
 public class Number11盛最多水的容器 {
