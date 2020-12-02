@@ -60,4 +60,10 @@ public class Number20有效的括号 {
     private static boolean newIsLeft(char c) {
         return c == '(' || c == '[' || c == '{';
     }
+
+
+
+
+
+
 }
