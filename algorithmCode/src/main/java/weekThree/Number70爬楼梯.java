@@ -7,7 +7,7 @@ package weekThree;
 public class Number70爬楼梯 {
 
     public static void main(String[] args) {
-        System.out.println(climbStairsFour(4));
+        System.out.println(climbStairsFive(4));
     }
 
     public static int climbStairsFour(int n) {
@@ -21,5 +21,23 @@ public class Number70爬楼梯 {
         return i[n];
     }
 
+    public static int climbStairsFive(int n) {
+        if (n <= 2) return n;
+        int i = climbStairsFive(n - 1);
+        int i1= climbStairsFive(n - 2);
+        int i2 = i+i1;
+        return i2;
+        // return recursion(n);
+    }
 
-}
+    public static  int recursion(int n){
+        // 结果肯定大于2了
+       /* if (n<=0){
+            return n;
+        }*/
+        return recursion(n-1)+recursion(n-2);
+
+    }
+
+
+    }
