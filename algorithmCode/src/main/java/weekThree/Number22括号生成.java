@@ -90,11 +90,5 @@ public class Number22括号生成 {
                 dfs(left, right - 1, curStr + ")");
             }
         }
-
-
     }
-
-    
-
-
 }
